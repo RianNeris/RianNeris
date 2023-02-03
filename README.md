@@ -1,11 +1,4 @@
-## Saudações, bem-vindos ao meu perfil 👋
-
-<a href="https://github.com/RianNeris/git-status">
-  <img align="center" src="rian-neris-git-main-rianneris.vercel.app" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=default" />
-</a>
+## Olá, Meu nome é Rian Neris! 👋
 <br>
 <br>
 - 🔭 I’m currently working on ...
