@@ -4,8 +4,8 @@
   Estudando análise e desenvolvimento de sistemas em [SPTECH SCHOOL](https://www.sptech.school/)  
   <br><br>
 
+<a href="https://github.com/RianNeris">
 <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=RianNeris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
 <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianNeris&layout=compact&langs_count=7&theme=dracula"/>
   
   
