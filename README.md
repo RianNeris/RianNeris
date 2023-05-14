@@ -14,6 +14,7 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=RianNeris&show_icons=true" />
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianNeris&layout=compact&langs_count=7&theme=radical"/>
 </picture>
   
   
