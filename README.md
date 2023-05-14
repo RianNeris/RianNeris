@@ -4,7 +4,8 @@
   Estudando análise e desenvolvimento de sistemas em [SPTECH SCHOOL](https://www.sptech.school/)  
   <br><br>
   
-  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={RianNeris}&theme={dracula}
+  <img height="180em" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={RianNeris}&theme={dracula}">
+  
   
 </div>
 
