@@ -1,15 +1,11 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
   <a href="">
-    <img align="left" src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindos%20ao%20meu%20perfil;Me%20chamo%20Rian%20Neris&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=30" /></a>
+    <img  src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindos%20ao%20meu%20perfil;Me%20chamo%20Rian%20Neris&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=30" /></a></p>
 
-<br><br>
- 
- <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
-
-<div align align="center">
-  <a href="https://github.com/RianNeris">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianNeris&layout=compact&langs_count=7&theme=dark">
-  <img height="185em" width="50%" src="https://github-readme-stats.vercel.app/api?username=RianNeris&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+<a href="https://github.com/RianNeris">
+<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=RianNeris&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianNeris&layout=compact&langs_count=7&theme=dark">
 
 
 
