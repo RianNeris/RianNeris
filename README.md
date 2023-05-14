@@ -1,7 +1,9 @@
-## Olá, Meu nome é Rian Neris! 👋
-<div style="display: inline_block">
-  
-  Estudando análise e desenvolvimento de sistemas em [SPTECH SCHOOL](https://www.sptech.school/)  
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Bem%20vindos%20ao%20meu%20perfil;Me%20chamo%20Rian%20Neris&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
   <br><br>
 
 <a href="https://github.com/RianNeris">
@@ -13,6 +15,7 @@
 
 <br>
 
+<details open>
 ## 👨🏾‍💻💻 &nbsp;Technologies & Tools
 
 <div style="display: inline-block">
@@ -48,7 +51,7 @@
   
   👨🏾‍💻💻 <b>IDE</b>
   <div style="display: inline-block">
-  <img alt="androidStudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-             studio&logoColor=white">
+  <img alt="androidStudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img alt="arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img alt="elipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img alt="visualStudio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
@@ -70,10 +73,10 @@
   🖥🖱 <b>Terminal</b>
   <div style="display: inline-block">
   <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" >
-  <img alt="" src="">
   </div>
   
-</div>
+  </div>
+</details>
 
 <br><br>
 
