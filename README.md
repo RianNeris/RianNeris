@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindos%20ao%20meu%20perfil;Me%20chamo%20Rian%20Neris&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
+<div style="display: inline-block"></div>
+
   <br><br>
 
 <a href="https://github.com/RianNeris">
@@ -15,7 +17,6 @@
 
 <br>
 
-<details open>
 ## 👨🏾‍💻💻 &nbsp;Technologies & Tools
 
 <div style="display: inline-block">
@@ -76,7 +77,6 @@
   </div>
   
   </div>
-</details>
 
 <br><br>
 
