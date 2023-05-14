@@ -27,11 +27,11 @@
 <div style="display: inline-block">
   
   <a href="https://www.linkedin.com/in/rian-neris-38662b20b/">
-   <img align="center" alt="linkedl" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img align="center" alt="linkedl" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
   <a href="mailto:rian-neris@hotmail.com?Subject=Vim%20pelo%20perfil%20do%20github&Body=Ol%E1%20Rian%21%20Tudo%20bem%20%3F">
-   <img align="center" alt="outlook" src="	https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+   <img align="center" alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
   
  </div>
