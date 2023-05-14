@@ -1,7 +1,10 @@
 ## Olá, Meu nome é Rian Neris! 👋
 <div style="display: inline_block">
   
-  Estudando análise e desenvolvimento de sistemas em [SPTECH SCHOOL](https://www.sptech.school/)
+  Estudando análise e desenvolvimento de sistemas em [SPTECH SCHOOL](https://www.sptech.school/)  
+  <br><br>
+  
+  https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={RianNeris}&theme={dracula}
   
 </div>
 
