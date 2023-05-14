@@ -1,23 +1,22 @@
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindos%20ao%20meu%20perfil;Me%20chamo%20Rian%20Neris&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=25" /></a>
-</p>
+    <img align="left" src="https://readme-typing-svg.demolab.com/?lines=Bem%20vindos%20ao%20meu%20perfil;Me%20chamo%20Rian%20Neris&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=30" /></a>
 
-<div style="display: inline-block"></div>
+<br><br>
+ 
+ <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
 
-  <br><br>
+<div align align="center">
+  <a href="https://github.com/RianNeris">
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianNeris&layout=compact&langs_count=7&theme=dark">
+  <img height="185em" width="50%" src="https://github-readme-stats.vercel.app/api?username=RianNeris&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 
-<a href="https://github.com/RianNeris">
-<img height="185em" width="50%" src="https://github-readme-stats.vercel.app/api?username=RianNeris&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianNeris&layout=compact&langs_count=7&theme=dark"/>
-  
-  
-</div>
 
-<br>
 
-## 👨🏾‍💻💻 &nbsp;Technologies & Tools
+<br><br><br>
+
+<details open>
+<summary>👨🏾‍💻💻 &nbsp;<h2>Technologies & Tools<h2></summary>
 
 <div style="display: inline-block">
   
@@ -77,6 +76,7 @@
   </div>
   
   </div>
+  </details>
 
 <br><br>
 
