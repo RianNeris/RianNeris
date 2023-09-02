@@ -1,5 +1,5 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="left">
+<p align="center">
   <a href="">
     <img  src="https://readme-typing-svg.demolab.com/?lines=%20Bem%20vindos%20ao%20meu%20perfil;Me%20chamo%20Rian%20Neris&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=30" /></a></p>
  
@@ -7,9 +7,7 @@
 <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=RianNeris&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianNeris&layout=compact&langs_count=7&theme=dark">
 
-
-
-<br><br><br>
+<br><br>
 
 <details open>
 <summary>👨🏾‍💻💻 &nbsp;<h2>Technologies & Tools<h2></summary>
